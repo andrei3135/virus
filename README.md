@@ -1,1 +1,2 @@
 # virus
+print("rip pc")
